@@ -1,5 +1,5 @@
 exports.iklan = (prefix) => {
-return `*LIST DM BY DEVIL STORE*
+return `*LIST DM BY BAYU STORE*
 *VIA ID AMAN TERPERCAYA 100%*
 
 5 💎 =	1000
@@ -27,6 +27,6 @@ return `*LIST DM BY DEVIL STORE*
 Member Mingguan=	29,500
 Member Bulanan  =	masih update harga
 
-CHAT?? wa.me/6288215463787
+CHAT?? wa.me/6289525518325
 payment??? ketik #payment`
 }
